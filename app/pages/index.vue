@@ -1,5 +1,12 @@
 <template>
-  <h1>Hellow world</h1>
+  <v-row>
+	  <v-col>
+		  <Form />
+	  </v-col>
+	  <v-col>
+		  <Table />
+	  </v-col>
+  </v-row>
 </template>
 
 <script>
